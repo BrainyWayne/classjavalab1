@@ -12,6 +12,8 @@ public class Main {
     //name Francis Eshun
     //index number 1649617
     public static void main(String[] args) {
+        
+        //This line calls the input class.. This is where most of the work is done
       Input input=new Input();
 
     }
